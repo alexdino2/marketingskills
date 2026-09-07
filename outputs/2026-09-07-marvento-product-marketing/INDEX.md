@@ -29,7 +29,7 @@ Auto-draft (product-marketing skill option 1) from:
 - `outputs/2026-09-07-marvento-student-apartments/`
 - `outputs/2026-09-07-marvento-marketing-plan/`
 
-No founder interview this run. Occupancy, CAC, testimonials, reply-time, and canonical phone are marked **[TBD]**.
+No founder interview this run. Occupancy, CAC, testimonials, and reply-time remain **[TBD]**. Phones resolved in v2: sales **(904) 682-9859** vs main/service **(904) 827-7836**.
 
 ## Verdict
 
@@ -37,7 +37,7 @@ No founder interview this run. Occupancy, CAC, testimonials, reply-time, and can
 
 ## Recommended next moves
 
-1. Correct anything that is wrong (pricing, phone, lease language, occupancy). Say “update product-marketing” and those sections get a v2 changelog.
+1. Correct anything that is still wrong (pricing, lease language, occupancy). Say “update product-marketing” and those sections get a changelog bump.
 2. Add verbatim resident language when you have consented quotes — empty testimonials are intentional.
 3. Run other skills against this file: ads, copywriting, emails, SEO — they will skip the foundation questions.
 4. Keep senior (3540) work in a separate context if you market that home; do not merge ICPs.

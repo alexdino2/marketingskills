@@ -1,6 +1,6 @@
 # Product Marketing Context
 
-**Document version:** v1  
+**Document version:** v2  
 **Last updated:** 2026-09-07  
 **Company:** Marvento Homes (marventohomes.com)  
 **Scope of this doc:** Student housing at **3530 Datura Street, St. Augustine, FL 32084**. Senior independent living at 3540 Datura is a sibling product — do not mix its creative, ICP, or paid campaigns into student work.
@@ -11,6 +11,7 @@
 **Product category:** Student housing / student apartments / student pilot housing near St. Augustine Airport (how people search). Honest product: furnished private room in a shared home (coliving), not a 300-unit apartment complex.
 **Product type:** Local housing / coliving (physical inventory, finite rooms)
 **Business model:** Room-month revenue at 3530. Private-room term ladder: **$1,650** month-to-month · **$1,495** (3–5 mo) · **$1,350** (6–9 mo) · **$1,195** (10–12 mo). Select shared rooms from **$850 per student**. No buy-in fees. Partner referral: **$1,000** per resident placed (paid on move-in + 30-day residency confirmation). Inventory constraint: a handful of rooms in one house — success is fill rate, term quality, and resident fit, not infinite top-of-funnel.
+**Phones:** **Sales** **(904) 682-9859** — inquiries, ads, student landing CTAs (“Prefer to talk now?”), WhatsApp/text for leasing. **Main / service** **(904) 827-7836** — general/homepage contact and resident service. Do not put the service line on paid ads or as the primary leasing CTA.
 
 ## Target Audience
 **Target companies:** Not a B2B SaaS sale. Geographic beachhead is St. Augustine / St. Johns County. Demand sources: Florida Flyers Flight Academy (4730 Casa Cola Way), Florida Aviation Career Training (4900 U.S. 1 North), other KSGJ field schools; Flagler College (74 King Street) juniors/seniors/transfers eligible for off-campus housing; short-program / USAHS / visiting students who need furnished flexibility.
@@ -101,8 +102,8 @@
 - "Apartment-level privacy. None of the apartment friction."
 - "Arrive with a suitcase"
 - "One rate, nothing to set up"
-**Words to use:** student housing, student apartments (search bridge), furnished private room, en suite / private bath, all-inclusive, 3530 Datura, 3.9 miles, 8–11 minutes, KSGJ, Florida Flyers, Flagler (~10 min drive — never “walkable”), no SSN or co-signer, remote lease / room hold, M1, ForeFlight, quiet hours, blackout curtains, Check Availability, rooms are limited
-**Words to avoid:** Pretending to be a large complex; invented occupancy/waitlists/testimonials; affiliation with Florida Flyers, Flagler, USAHS, or Sallie Mae; promising visa approval, check-ride outcomes, or guaranteed availability; mixing senior/55+ creative into student campaigns; Fair Housing violations (targeting or excluding protected classes; people-as-demographic in Housing ads); “close to everything” without a number
+**Words to use:** student housing, student apartments (search bridge), furnished private room, en suite / private bath, all-inclusive, 3530 Datura, 3.9 miles, 8–11 minutes, KSGJ, Florida Flyers, Flagler (~10 min drive — never “walkable”), no SSN or co-signer, remote lease / room hold, M1, ForeFlight, quiet hours, blackout curtains, Check Availability, rooms are limited; sales phone **(904) 682-9859** on leasing CTAs
+**Words to avoid:** Pretending to be a large complex; invented occupancy/waitlists/testimonials; affiliation with Florida Flyers, Flagler, USAHS, or Sallie Mae; promising visa approval, check-ride outcomes, or guaranteed availability; mixing senior/55+ creative into student campaigns; Fair Housing violations (targeting or excluding protected classes; people-as-demographic in Housing ads); “close to everything” without a number; putting the main/service line **(904) 827-7836** on ads or as the leasing CTA
 **Glossary:**
 | Term | Meaning |
 |------|---------|
@@ -118,6 +119,8 @@
 | Check Availability | Primary conversion — form submit; claimed 24-hour confirmation |
 | Equal Housing Opportunity | Required on ads and student pages |
 | Housing Special Ad Category | Required Meta setting for these ads; creative targets the offer, not excluded people |
+| Sales phone | (904) 682-9859 — leasing / ads / student CTAs |
+| Main / service phone | (904) 827-7836 — homepage general contact and resident service; not the leasing CTA |
 
 ## Brand Voice
 **Tone:** Direct, specific, peer-to-peer. Not a dorm brochure. Not senior-living voice. Helpful, not countdown-gimmick scarcity.
@@ -139,7 +142,7 @@
 
 ## Goals
 **Business goal:** Keep 3530 Datura full of the right student pilots (and compatible flight/local students) at healthy term lengths — bias toward 6–12 month stays for revenue predictability — without mixing senior-home acquisition into student spend.
-**Conversion action:** **Check Availability** / contact form submit → human follow-up within 24 hours (claimed) → remote hold/lease → move-in. Secondary: call/text **(904) 682-9859** on student surfaces. Homepage also shows **(904) 827-7836** — **[TBD: canonicalize]**. Partner path: $1,000 referral from flight-school / housing partners.
+**Conversion action:** **Check Availability** / contact form submit → human follow-up within 24 hours (claimed) → remote hold/lease → move-in. Secondary leasing path: call/text **sales (904) 682-9859**. Partner path: $1,000 referral from flight-school / housing partners. **Main / service (904) 827-7836** is not a conversion number — use it for general site contact and resident service only.
 **Current metrics:** **[TBD]**. Known tooling: GTM `GTM-MX3WCX3T` live; Google Ads conversion ID still placeholder `AW-XXXXXXXXXX` as of 2026-09-06 ads package — do not spend paid until submit events fire. Instagram/Facebook `@marventohomes`.
 
 ## Live surfaces (student)
@@ -157,8 +160,10 @@
 - **Sibling product:** 3540 Datura is senior 55+ independent living. Separate campaigns, separate landing pages, no mixed creative.
 - **Distribution theory:** Harvest intent (Search + SEO) + flight-school referrals beat lifestyle brand ads. Housing is a large, low-frequency problem per student.
 - **Compliance:** Fair Housing + Meta Housing Special Ad Category. Property-only imagery in ads. Equal Housing Opportunity. No invented scarcity or affiliation claims.
-- **Open gaps for v2:** Occupancy/CAC/close-rate; who owns WhatsApp and true reply-time; canonical phone; consented testimonials; lease early-termination language; whether inventory expands beyond one student home.
+- **Phones:** Sales **(904) 682-9859** on ads and student leasing CTAs; main/service **(904) 827-7836** on general/homepage and resident service — not interchangeable.
+- **Open gaps for v3:** Occupancy/CAC/close-rate; who owns WhatsApp and true reply-time; consented testimonials; lease early-termination language; whether inventory expands beyond one student home.
 
 ## Changelog
 *Newest first. One line per revision: what changed and why.*
+- v2 (2026-09-07) — Split phones: sales (904) 682-9859 for leasing/ads CTAs vs main/service (904) 827-7836 for homepage/resident contact — they are not interchangeable.
 - v1 (2026-09-07) — Initial student-housing context for 3530 Datura: ICP (pilots primary, Flagler secondary), term ladder, competitive frame, voice, objections, and Fair Housing constraints, auto-drafted from live site + existing Marvento packages.
