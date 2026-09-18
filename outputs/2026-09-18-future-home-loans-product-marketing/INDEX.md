@@ -20,26 +20,26 @@ cp outputs/2026-09-18-future-home-loans-product-marketing/product-marketing.md .
 
 ## How this was drafted
 
-Grounded V1 from four sources:
+Grounded from five sources:
 
 - **Live site** (fetched 2026-09-18): homepage, `/va-loans/`, `/va-loans-by-future-home-loans/`
-- **2026 closed-deals export** (client-provided CSV): 1,314 deals, ~$457M pipeline, 74% purchase / 26% refi, median ~$310K, FL 58% / NC 24%; product signals for VA IRRRL, DSCR, and self-employed loans
-- **Client Round-1 answers:** VA growth focus (conventional is the engine); veterans + active duty; broker advantages (pulls COE, competitive vs. Veterans United, fast clear-to-close); goal = qualified VA leads, Florida-first
-- **60+ recent Google reviews + BBB:** verbatim VA/military, rate-beating, speed, and non-traditional-borrower language; A+ / 0 complaints in 3 years
+- **2026 closed-deals export** (client CSV): 1,314 deals, ~$457M pipeline, 74% purchase / 26% refi, median ~$310K, FL 58% / NC 24%; product signals for VA IRRRL, DSCR, and self-employed loans
+- **Client Round-1 answers:** VA growth focus (conventional is the engine); veterans + active duty; broker advantages; goal = qualified VA leads, Florida-first
+- **60+ recent Google reviews + BBB:** verbatim VA/military, rate-beating, speed, non-traditional-borrower language; A+ / 0 complaints in 3 years
+- **(v2) Client competitive positioning report:** confirmed competitor set + mechanics, differentiation ranking, objection rebuttals, anti-persona, founders, and Florida/Jacksonville regional dynamics
 
 ## Verdict
 
-**Future Home Loans is the veteran-owned broker that beats the big VA lender's rate and closes on time — for the veterans and non-traditional borrowers the giants underserve.** Lead VA creative with: we shop 30+ lenders, we pull your COE, no lender fees for veterans, $0 down / no PMI, closed in ~14 days — backed by real veteran testimonials.
+**Future Home Loans is the veteran-owned broker that forces 30+ lenders to bid on your loan — beating the retail giant's rate and closing in 14 days — for the veterans and non-traditional borrowers the giants underserve.** Lead VA creative with: we shop 30+ wholesale lenders, no lender fees for veterans, $0 down / no PMI, closed in ~14 days — backed by real veteran testimonials. (COE-pulling is table stakes, not a headline.)
 
-## What's grounded vs. pending
+## What's confirmed vs. open
 
-**Grounded & citable now:** product, audience, personas, differentiation, customer language, brand voice, proof points, goals, compliance.
-**[CONFIRM — client email pending]:** full competitor set + shortfalls (beyond Veterans United), the real top-3 sales objections + LO responses, and the confirmed anti-persona. These are drafted from evidence and clearly flagged in the doc.
+**Client-confirmed:** competitors + shortfalls, differentiation ranking, top-3 objections + rebuttals, anti-persona, founders/founding, regional strategy, and (v3) the **13-state footprint (no Arizona)** and **11,002 families / 4,034 reviews** as the publishable numbers.
+**Remaining note:** competitor shortfalls are internal sales-enablement only — verify before comparative advertising.
 
 ## Recommended next moves
 
-1. Send the client interview email (competitors, objections, anti-persona, publishable proof) and fold answers into v2 with a changelog bump.
-2. Resolve the **review-count inconsistency** (site 11,002/4,034 vs. third-party "2,500+"/"1,000+") to one defensible number before ads run.
-3. Collect **3–5 VA-specific testimonials** cleared for ad use — the single highest-value asset for the VA campaign.
-4. Add funnel metrics (CPL, lead→pre-approval→funded, VA share of volume).
-5. Run other skills against this file (ads, copywriting, emails, landing-page CRO) — they'll skip the foundation questions.
+1. Collect **3–5 VA-specific testimonials** cleared for ad use — the single highest-value asset for the VA campaign.
+2. Add funnel metrics (CPL, lead→pre-approval→funded, VA share of volume).
+3. Get legal sign-off on any competitor/comparative claims intended for public ads.
+4. Run other skills against this file (ads, copywriting, emails, landing-page CRO) — they'll skip the foundation questions.
