@@ -34,13 +34,12 @@ Grounded from five sources:
 
 ## What's confirmed vs. open
 
-**Client-confirmed in v2:** competitors + shortfalls, differentiation ranking, top-3 objections + rebuttals, anti-persona, founders/founding, regional strategy.
-**Open flags in the doc:** ⚠️ **13 vs. 14 states** — the report adds **Arizona**; the site/original brief listed 13. Confirm AZ licensure before targeting it. ⚠️ **Review-count** (11,002/4,034 vs. "2,500+"/"1,000+"). Plus competitor claims are internal-use — verify before comparative advertising.
+**Client-confirmed:** competitors + shortfalls, differentiation ranking, top-3 objections + rebuttals, anti-persona, founders/founding, regional strategy, and (v3) the **13-state footprint (no Arizona)** and **11,002 families / 4,034 reviews** as the publishable numbers.
+**Remaining note:** competitor shortfalls are internal sales-enablement only — verify before comparative advertising.
 
 ## Recommended next moves
 
-1. Resolve the **13-vs-14 state** question (confirm AZ licensure) and the **review-count** number before ads run.
-2. Collect **3–5 VA-specific testimonials** cleared for ad use — the single highest-value asset for the VA campaign.
-3. Add funnel metrics (CPL, lead→pre-approval→funded, VA share of volume).
-4. Get legal sign-off on any competitor/comparative claims intended for public ads.
-5. Run other skills against this file (ads, copywriting, emails, landing-page CRO) — they'll skip the foundation questions.
+1. Collect **3–5 VA-specific testimonials** cleared for ad use — the single highest-value asset for the VA campaign.
+2. Add funnel metrics (CPL, lead→pre-approval→funded, VA share of volume).
+3. Get legal sign-off on any competitor/comparative claims intended for public ads.
+4. Run other skills against this file (ads, copywriting, emails, landing-page CRO) — they'll skip the foundation questions.

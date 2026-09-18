@@ -1,11 +1,11 @@
 # Product Marketing Context
 
-**Document version:** v2  
+**Document version:** v3  
 **Last updated:** 2026-09-18  
 **Company:** Future Home Loans (future.loans) — Future Financial LLC, NMLS #1621953  
 **Scope of this doc:** Whole-company positioning, weighted toward the **VA home loan** growth push in **Florida** first. Conventional purchase is the volume engine and stays in scope; do not let VA creative imply VA is the only product.
 
-> **Status:** Grounded from the live site, the 2026 closed-deals export, client Round-1 answers, 60+ recent Google reviews + BBB, and (v2) a client-provided competitive positioning report. Competitors, differentiation ranking, objections, and anti-persona are now client-confirmed. **Open flags** are called out inline: the state count (13 vs. 14) and the marketing-use limits on competitor claims.
+> **Status:** Grounded from the live site, the 2026 closed-deals export, client Round-1 answers, 60+ recent Google reviews + BBB, and a client-provided competitive positioning report. Competitors, differentiation ranking, objections, and anti-persona are client-confirmed. As of v3 the two open flags are resolved: **13-state footprint (no Arizona)** and **11,002 families / 4,034 reviews** as the publishable numbers. Competitor shortfalls remain **internal sales-enablement only** — verify before comparative advertising.
 
 ## Product Overview
 **One-liner:** Veteran-owned mortgage **broker** that forces 30+ wholesale lenders to bid on your loan — getting veterans and homebuyers a lower rate and a 14-day close, with no lender fees for veterans.
@@ -14,7 +14,7 @@
 **Product category:** Mortgage broker / VA home loans / home loans (search: "VA loan," "VA loan Florida," "mortgage broker near me," "no down payment home loan"). Honest product: an independent broker who shops the wholesale market — not a retail bank, not a call-center lender.
 **Product type:** Licensed independent mortgage brokerage (service business; broker comp per funded loan). HQ: 224 3rd St N, Jacksonville Beach, FL 32250 · (904) 494-6000.
 **Business model:** Wholesale lenders pay broker compensation per funded loan out of *their* margins; **no lender fees for veterans** (third-party costs — appraisal, title, VA funding fee, escrow, recording — still apply). Growth = qualified applications → pre-approvals → funded loans.
-**States served — ⚠️ RESOLVE (13 vs. 14):** The client positioning report lists **14**: FL, GA, AL, TN, SC, NC, TX, CO, CA, **AZ**, KY, IN, VA, OH. The live site and the original brief listed **13** (same set **without Arizona**). Confirm active AZ licensure before any AZ targeting — advertising an unlicensed state is a compliance violation. **Florida is the current paid-marketing beachhead.**
+**States served (13):** FL, GA, AL, TN, SC, NC, TX, CO, CA, KY, IN, VA, OH. (The client positioning report listed 14 including Arizona; confirmed 2026-09-18 that **AZ is not in the licensed footprint** — do not target it.) **Florida is the current paid-marketing beachhead.**
 
 ## Target Audience
 **Primary (growth focus):** Veterans, active-duty service members, and eligible surviving spouses using their VA benefit — especially **first-time buyers**, **PCS-driven military families**, and borrowers with **complex profiles** (past bankruptcy, self-employment, higher DTI) that retail automated systems auto-deny but manual underwriting can save.
@@ -94,7 +94,7 @@
 ## Anti-Persona
 *Client-confirmed. Filter these out of paid lead-gen — they can't legally or mathematically close and drain LO bandwidth.*
 1. **Sub-580 credit.** VA has no statutory minimum, but wholesale overlays effectively floor at ~580 (with strong compensating factors). Below that = exhaustive manual underwriting, high fallout. Qualify traffic to "580+"; route sub-580 to credit-repair resources, not the origination pipeline.
-2. **Geographic misfit.** Any lead outside the licensed footprint is unmonetizable. Geo-fence all SEO/paid search. **(Tie to the 13-vs-14 state flag above — do not target AZ until licensure is confirmed.)**
+2. **Geographic misfit.** Any lead outside the 13-state footprint is unmonetizable. Geo-fence all SEO/paid search — and **exclude Arizona** (not licensed).
 3. **Equity-deficient cash-out.** Recent purchase + no appreciation → fails the appraisal/LTV stage (conventional cash-out caps ~80% LTV; VA can go higher but overlays vary). Scrutinize debt-consolidation cash-out leads before ordering an appraisal.
 4. **Mathematically disqualified VA IRRRL shopper.** Governed by 38 U.S.C. § 3709 — don't spend on or price these when they fail: **36-month recoupment** (recoupable costs ÷ monthly P&I savings ≤ 36; VA funding fee and prepaids excluded), **Net Tangible Benefit** (fixed→fixed rate drop ≥ 50 bps; fixed→ARM ≥ 200 bps), **seasoning** (6 consecutive payments AND 210 days since first payment due date). Never target veterans who bought < 210 days ago.
 
@@ -148,7 +148,7 @@
 ## Proof Points
 **Metrics (2026 closed-deals export — internal; confirm before publishing any specific figure):** 1,314 deals / ~$457M pipeline; 685 finalized/funded (~$238M); **74% purchase, 26% refinance**; median loan ~$310K, avg ~$348K; FL 58%, NC 24% (top two = 83%), then SC, TX, GA. Pipeline signals: VA IRRRLs, DSCR (investor), bank-statement/1099 (self-employed).
 **Company / trust:** Founded 2017 by veterans Rob Lynn & Nick Walker · 11,000+ families · veteran-owned · NMLS #1621953 · Equal Housing Lender · BBB **A+**, accredited since Aug 2020, **0 complaints in 3 years** · 14-day avg clear-to-close · 24–48 hr approval · $0 down + no PMI on most VA purchases · no lender fees for veterans.
-- ⚠️ **Review-count inconsistency to resolve before ads run:** site says **11,002 customers / 4,034 reviews**; third-party pages cite **"2,500+ 5-star"** and **"1,000+ 5-star."** Pick one defensible, sourced number.
+- **Publishable review numbers (confirmed):** **11,002 families served / 4,034 reviews** (the site figures — the defensible source). Treat the third-party "2,500+"/"1,000+" counts as stale; don't cite them.
 **Testimonials (verbatim, recent Google — get written consent for ad use):**
 > "Tim was exceptional throughout our VA loan process. We were purchasing a condo-hotel that initially seemed impossible to finance with a VA loan, but he worked tirelessly through the VA condo process and kept us informed every step." — Jerome J.
 > "As first-time homebuyers and active duty military… Tim made every step so clear … helping us save significantly on closing costs." — Nickolas K.
@@ -180,16 +180,16 @@
 - Never guarantee approval or a rate; no dated rate/APR in evergreen creative without full APR disclosure.
 - Don't imply VA is exclusive to Future — it's a federal benefit Future originates.
 - **Comparative advertising:** competitor shortfalls in this doc are for internal sales enablement. Do not publish disparaging factual claims about named competitors (specific fees, litigation, "deceptive") without verification; prefer generalized "big banks / retail lenders" framing in ads.
-- **Licensure:** verify the 14th state (AZ) before any AZ targeting; geo-fence to the confirmed footprint.
+- **Licensure:** 13-state footprint (**no Arizona**); geo-fence all targeting to it and exclude AZ.
 - Get written consent before using a named borrower's review in paid ads.
 
-## Open gaps for v3 (data)
-- Resolve **13 vs. 14 states** (confirm AZ licensure) and the **review-count** number.
+## Open gaps for v4 (data)
 - 3–5 **VA-specific** testimonials cleared for ad use (highest-value asset for the VA push).
 - Current funnel metrics (CPL, lead→pre-approval→funded, VA share).
 - Legal sign-off on any comparative/competitor claims intended for public ads.
 
 ## Changelog
 *Newest first. One line per revision: what changed and why.*
+- v3 (2026-09-18) — Resolved the two open flags per client: **13-state footprint (Arizona is not licensed — dropped from the list and added as a geo-exclusion)** and **11,002 families / 4,034 reviews** confirmed as the publishable review numbers (third-party "2,500+"/"1,000+" marked stale).
 - v2 (2026-09-18) — Client competitive positioning report folded in: confirmed competitor set + mechanics, **re-ranked differentiators (broker/30-lenders #1, 14-day close #2, no-vet-fees #3, COE demoted to table stakes)**, added the three objection rebuttals ("judo"), the 4-part anti-persona, founders (Rob Lynn & Nick Walker, 2017) and 11,000+ families, and a Florida/Jacksonville regional section. Flagged 13-vs-14 state discrepancy (adds AZ) and added comparative-advertising compliance guidance.
 - v1 (2026-09-18) — Initial context, VA-growth-weighted. Auto-drafted from live site, 2026 closed-deals export, client Round-1 answers, and 60+ recent Google reviews + BBB. Competitors, objections, and anti-persona drafted from evidence and flagged pending client input.
