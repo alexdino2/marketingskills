@@ -1,15 +1,15 @@
 # Product Marketing Context
 
-**Document version:** v1  
+**Document version:** v2  
 **Last updated:** 2026-09-19  
 **Company:** Expert Home Advisors (experthomeadvisors.com) — a residential real estate team operating under **JPAR City & Beach**, Jacksonville, FL. Broker/Owner: **Shawn O'Neill**.  
-**Scope of this doc:** Whole-team positioning for the Jacksonville / Northeast Florida residential market — buyers, sellers, and investors. The through-line to protect in all creative is the **direct-to-consumer model**: EHA owns its own demand (SEO, Meta, Google) instead of buying portal leads, and owns the client journey end to end.
+**Scope of this doc:** Whole-team positioning for the Jacksonville / Northeast Florida residential market, **weighted to sellers first, then buyers** (investors are in scope but deprioritized). The through-line to protect in all creative is the **direct-to-consumer model**: EHA owns its own demand (SEO, Meta, Google) instead of buying portal leads, and owns the client journey end to end — with a **speed-to-lead + follow-up engine (the "Control Tower," built with marketing partner Digital Optimus)** converting that owned demand into appointments.
 
-> **Status:** V1 auto-drafted from **public sources only** (see INDEX.md) — the live site returned 403 to automated fetch, so the homepage/about/buyer pages were reconstructed from a 2026 RISMedia feature, search-engine result snippets, an older EXIT Real Estate Gallery profile, BBB/Yelp/LinkedIn listings, and social profiles. **Everything here is pending client confirmation.** Specific figures (review counts, weekly opportunity/appointment volume, awards, team roster, commission structure) and the competitive/objection sections are drafted from evidence and flagged — verify before using in paid advertising. Open flags are collected in **"Open gaps for v2."**
+> **Status:** V2 folds in client Round-1 answers (segment priority, conversion goal, and the Digital Optimus speed-to-lead engine). The rest is still **auto-drafted from public sources** (see INDEX.md) — the live site returned 403 to automated fetch, so the homepage/about/buyer pages were reconstructed from a 2026 RISMedia feature, search-engine result snippets, an older EXIT Real Estate Gallery profile, BBB/Yelp/LinkedIn listings, and social profiles. Specific figures (review counts, weekly opportunity/appointment volume, awards, team roster, commission structure) and the competitive/objection sections remain drafted from evidence and flagged — verify before using in paid advertising. Remaining open flags are collected in **"Open gaps for v3."**
 
 ## Product Overview
 **One-liner:** Jacksonville's direct-to-consumer real estate team — the buyers, sellers, and investors who find EHA online get a full-service, staffed team that owns the deal from the first click through the closing table and beyond, backed by nearly 800 five-star reviews.
-**What it does:** Expert Home Advisors is a **residential real estate team**, not a solo agent and not a national brokerage. Operating under JPAR City & Beach, the team represents buyers, sellers, and investors across metro Jacksonville and Northeast Florida — listing and marketing homes, running comparative market analysis, negotiating offers, and managing transactions to close. What structurally sets the operation apart is a **modern, owned marketing engine** (SEO + Meta + Google Search) that generates its own inbound demand rather than paying Zillow, Redfin, or Homelight for recycled leads — plus **dedicated support staff** (a Client Services / Client Experience Manager and a Transaction Manager) so no client falls through the cracks and every deal runs with "the least amount of stress."
+**What it does:** Expert Home Advisors is a **residential real estate team**, not a solo agent and not a national brokerage. Operating under JPAR City & Beach, the team represents buyers, sellers, and investors across metro Jacksonville and Northeast Florida — listing and marketing homes, running comparative market analysis, negotiating offers, and managing transactions to close. What structurally sets the operation apart is a **modern, owned marketing engine** (SEO + Meta + Google Search) that generates its own inbound demand rather than paying Zillow, Redfin, or Homelight for recycled leads — feeding a **speed-to-lead and follow-up engine (the "Control Tower," built with marketing partner Digital Optimus)** that contacts and nurtures every new lead fast so it converts to a booked appointment instead of dying on the vine — plus **dedicated support staff** (a Client Services / Client Experience Manager and a Transaction Manager) so no client falls through the cracks and every deal runs with "the least amount of stress."
 **Founded / lineage:** Long-tenured Jacksonville team. Earlier operated as **Expert Home Advisors at EXIT Real Estate Gallery** (San Jose Blvd); now under **JPAR City & Beach** (9700 Philips Hwy, Ste 106, Jacksonville, FL 32256). Recognized as a top team through the 2010s (WSJ / RealTrends). *(Exact founding year and current team roster: client to confirm — see Open gaps.)*
 **Product category:** Residential real estate team / REALTOR® / real estate agent, Jacksonville (search: "realtor near me," "homes for sale Jacksonville," "sell my house Jacksonville," "St. Augustine / Amelia Island real estate," "Jacksonville real estate team"). Honest product: a local, staffed team you find and vet online — not a portal, not an iBuyer, not a single overstretched agent.
 **Product type:** Real estate team within a licensed brokerage (JPAR City & Beach). Service business; revenue is commission per closed transaction.
@@ -17,11 +17,11 @@
 **Areas served:** Jacksonville / Duval, the **Beaches**, **Amelia Island**, **St. Augustine**, and surrounding Northeast Florida. Phone: (904) 402-5462 / (904) 370-3500.
 
 ## Target Audience
-**Primary segments (three, all local to NE Florida):**
-- **Sellers** — homeowners who want top dollar and a smooth, managed sale. The strongest proof lives here ("$100,000 over asking").
-- **Buyers** — first-time buyers, move-up buyers, and **relocators** (Jacksonville's large military/PCS population and out-of-state movers) who want a responsive local guide, not a call center.
-- **Investors** — buyers acquiring rental / value-add residential property who want a team that understands deals, not just dream homes.
-**Where they come from:** The differentiator *is* the acquisition channel. Clients arrive through EHA's **own** online presence — organic search, Google, and Meta — and through the **referral and reviews flywheel** (nearly 800 five-star reviews). They are people who researched online and chose EHA, rather than being sold a lead to a random agent.
+**Primary segments (ranked by priority, all local to NE Florida):**
+1. **Sellers (first priority)** — homeowners who want top dollar and a smooth, managed sale. The strongest proof lives here ("$100,000 over asking") and it's the segment paid/creative should weight toward.
+2. **Buyers (second priority)** — first-time buyers, move-up buyers, and **relocators** (Jacksonville's large military/PCS population and out-of-state movers) who want a responsive local guide, not a call center.
+3. **Investors (in scope, deprioritized)** — buyers acquiring rental / value-add residential property who want a team that understands deals. Serve them, but don't spend seller/buyer campaign budget chasing them.
+**Where they come from:** The differentiator *is* the acquisition channel. Clients arrive through EHA's **own** online presence — organic search, Google, and Meta — get worked fast by the **Control Tower speed-to-lead engine**, and come through the **referral and reviews flywheel** (nearly 800 five-star reviews). They are people who researched online and chose EHA, rather than being sold a lead to a random agent.
 **Primary use case:** Buy or sell a NE-Florida home (or investment property) with a responsive, full-service local team that answers the phone, negotiates hard, and manages the transaction so nothing gets dropped — and that the client found and vetted themselves online.
 **Jobs to be done:**
 - Sell my home for the most money, with the least stress, on a predictable timeline
@@ -78,7 +78,7 @@
 *Draft ranking — confirm against how the team actually wins on a listing/buyer appointment.*
 
 1. **We own the whole client journey — you found us, and we don't hand you off.** The direct-to-consumer model is the core structural story: EHA generates its own demand and owns "the client journey from the very first interaction through the closing table and beyond," instead of being a name a portal sold you. **Winning narrative:** *"You didn't get matched to us by an algorithm that sold your info — you found us, and the same team stays with you from the first call to well past closing."*
-2. **A staffed team, not a solo agent.** A dedicated Client Services / Client Experience Manager and Transaction Manager mean fast responses and deals that don't fall apart — the thing reviews praise most ("always replied quickly," "smooth and stress free").
+2. **A staffed team plus a speed-to-lead engine — leads get worked, not lost.** A dedicated Client Services / Client Experience Manager and Transaction Manager, backed by the **Control Tower** follow-up/engagement engine (built with Digital Optimus), mean new leads are contacted fast and nurtured until they book — the thing reviews praise most ("always replied quickly," "smooth and stress free"). Most solo agents (and portal-matched agents) let inbound die before the first call; EHA doesn't.
 3. **Results that show up in the price.** Aggressive marketing + skilled negotiation produce outcomes clients quote by the dollar ("$100,000 over our asking price"), backed by nearly 800 five-star reviews and years of top-team recognition (WSJ / RealTrends).
 4. **Deep local, all of NE Florida.** Jacksonville, the Beaches, Amelia Island, and St. Augustine — real neighborhood knowledge that a portal-matched or out-of-area agent can't offer, especially for relocators.
 
@@ -122,13 +122,16 @@
 - "Owning the client journey from the very first interaction through the closing table and beyond."
 - "Productivity and service are not competing priorities — they are complementary strengths."
 - "A modern marketing engine designed to meet consumers where they already are — online."
-**Words to use:** local / Jacksonville / the Beaches / Amelia Island / St. Augustine, real estate team, full-service, responsive, five-star reviews, sell for more / over asking, stress-free, we answer the phone, buyers · sellers · investors, we own your journey, relocating, neighborhood expert.
+**Words to use:** local / Jacksonville / the Beaches / Amelia Island / St. Augustine, real estate team, full-service, responsive, five-star reviews, sell for more / over asking, stress-free, we answer the phone / fast follow-up, we work every lead, sellers first (then buyers), we own your journey, relocating, neighborhood expert. *(Control Tower and Digital Optimus are internal/partner terms — keep them out of consumer-facing copy; sell the outcome, "we call you back fast and don't let you fall through the cracks," not the tooling.)*
 **Words to avoid:** "lead" (they own demand, they don't buy you as a lead); "discount"; guaranteeing a sale price or timeline; implying a specific commission rate before a listing appointment; anything that reads as a Fair Housing steering violation; disparaging named competitors with unverified claims in public ads.
 **Glossary:**
 | Term | Meaning |
 |------|---------|
 | Direct-to-consumer (DTC) real estate | EHA generates its own demand via SEO/Meta/Google instead of buying portal leads |
 | Owned client journey | The same team stays with the client from first contact through closing and after |
+| Control Tower | EHA's speed-to-lead + follow-up / engagement engine (built with marketing partner Digital Optimus) that works every lead fast to a booked appointment |
+| Speed-to-lead | How fast a new lead is contacted after it comes in — the metric that decides whether it converts |
+| Digital Optimus | EHA's performance-marketing partner; built the Control Tower follow-up/engagement engine |
 | Client Services / Client Experience Manager | In-house staff role that keeps clients informed and reduces stress |
 | Transaction Manager | In-house staff role that manages paperwork/coordination so deals don't fall apart |
 | Over asking | Sale price achieved above the seller's list price — a headline proof point |
@@ -144,6 +147,7 @@
 **Scale / demand engine (from the 2026 RISMedia feature — confirm current):** nearly **800 five-star reviews**; **100–350 new opportunities per week**; **100+ inbound phone calls per week**; **~25–30 appointments weekly** with buyers, sellers, and investors.
 **Track record / trust:** Operates under **JPAR City & Beach** (Broker/Owner **Shawn O'Neill** — described as an award-winning REALTOR, best-selling author, and sales leader). Historically a **top-ranked team** — including WSJ / RealTrends recognition (e.g., a reported #1 team in Florida by transactions in the 2013 WSJ/RealTrends report; Top Team / Top Agent recognition across 2012–2017). *(Verify which awards are current and citable.)*
 **Team structure as proof:** dedicated **Client Services / Client Experience Manager** and **Transaction Manager** on staff — a structural service advantage over solo agents.
+**Speed-to-lead engine:** a follow-up / engagement system (the **"Control Tower," built with marketing partner Digital Optimus**) that works every new lead fast and nurtures it to a booked appointment — the operational reason the responsiveness reviews are consistent, not luck. *(Client to provide any citable speed-to-lead / lead→appointment numbers.)*
 **Testimonials (verbatim, public — get written consent before ad use):**
 > "My wife and I absolutely loved working with Jacksonville Expert Home Advisors. Not only were they knowledgeable and professional, but they made the home selling process so smooth and stress free, and they got us $100,000 over our asking price!"
 > "Their team truly listens and values what you want out of a buying/selling experience."
@@ -152,15 +156,18 @@
 | Theme | Proof |
 |-------|-------|
 | We own demand — you chose us | DTC model (SEO/Meta/Google); 100–350 opportunities/week self-generated |
-| Staffed team = responsiveness & no dropped deals | Client Services + Transaction Manager; "always replied quickly" |
+| Leads get worked, not lost | Control Tower speed-to-lead + follow-up engine (with Digital Optimus); 100+ calls/week; "always replied quickly" |
+| Staffed team = no dropped deals | Client Services + Transaction Manager on staff |
 | Results show up in the price | "$100,000 over asking"; skilled negotiation + marketing |
 | Trust at scale | ~800 five-star reviews; top-team / WSJ-RealTrends history |
 | Deep local across NE Florida | Jacksonville, Beaches, Amelia Island, St. Augustine |
 
 ## Goals
-**Business goal:** Sustainable, relationship-driven growth in listings and closings across NE Florida — more signed buyers, sellers, and investors — without reverting to bought portal leads.
-**Conversion action:** **Qualified appointment** — a booked buyer/seller/investor consultation (call/text or web inquiry). Optimize on appointments set and appointment→signed-client rate, not raw traffic. Gate the funnel to the NE-Florida footprint and screen the anti-persona.
-**Current metrics:** **[TBD — client to provide]** cost per opportunity, opportunity→appointment→signed-client rates, listing-vs-buyer mix, average sale price / days on market, referral share. Weekly signals (per RISMedia): 100–350 opportunities, 100+ calls, 25–30 appointments.
+**Business goal:** Sustainable, relationship-driven growth in listings and closings across NE Florida — **sellers first, then buyers** (investors in scope but not the budget focus) — without reverting to bought portal leads.
+**Primary conversion action:** **Lead generation** — a form submit or tracked call from an in-footprint buyer/seller (weighted to sellers). The owned marketing engine's job is to produce leads; the **Control Tower speed-to-lead engine** then works them.
+**Goal / north-star metric:** **Appointments** — booked consultations (weighted to seller/listing appointments). Optimize the funnel on lead→appointment and appointment→signed-client rate, not raw traffic. Gate the funnel to the NE-Florida footprint and screen the anti-persona.
+**Funnel shape:** owned demand (SEO/Meta/Google) → **lead** (form/call) → Control Tower speed-to-lead + follow-up → **appointment** → signed client → closing → referral.
+**Current metrics:** **[TBD — client to provide]** cost per lead, lead→appointment and appointment→signed-client rates, listing-vs-buyer mix, average sale price / days on market, speed-to-lead time, referral share. Weekly signals (per RISMedia): 100–350 opportunities, 100+ calls, 25–30 appointments.
 
 ## Compliance (real estate — must-run)
 - **Fair Housing:** never steer by protected class; avoid neighborhood descriptions that imply a preferred buyer profile. Meta housing ads run under the **Special Ad Category** (restricted targeting) — prefer property/location imagery.
@@ -170,14 +177,16 @@
 - **Testimonials:** get written consent before using a named client's review in paid ads; keep claims truthful and substantiated.
 - **Competitors:** competitor shortfalls in this doc are internal positioning; don't publish disparaging factual claims about named portals/brokers without verification — prefer category framing in ads.
 
-## Open gaps for v2 (client to confirm / provide)
+## Open gaps for v3 (client to confirm / provide)
 1. **Homepage/about/buyer/seller page copy** — the live site blocked automated fetch; confirm exact taglines, service descriptions, and the current team roster/lead agent(s) (Shawn O'Neill as Broker/Owner; **Adam Hoffmann** appears as a lead agent — confirm structure).
 2. **Current, citable stats** — exact five-star review count, weekly opportunity/call/appointment numbers, transaction volume, average sale price / days-on-market, and which awards are current and citable.
 3. **Confirmed competitor set + real objection talk tracks** — how the team actually positions against portals, iBuyers, discount brokers, and solo agents on a live appointment.
 4. **Founding year and brokerage lineage** — EXIT Real Estate Gallery → JPAR City & Beach timeline.
-5. **Funnel metrics + primary goal weighting** — is the priority listings, buyers, or investors? What's the target conversion action and CPL?
-6. **A fresh batch of on-site testimonials** cleared for ad use — especially seller "over asking" wins and relocation/buyer stories.
+5. **Funnel metrics** — cost per lead, lead→appointment and appointment→signed rates, speed-to-lead time, and current seller vs. buyer lead mix (goal weighting itself is now set: sellers first, then buyers; goal = appointments via lead gen).
+6. **Control Tower detail** — a one-line description of what the Control Tower does (channels, response time, automation vs. human) so speed-to-lead can be a defensible, quantified proof point.
+7. **A fresh batch of on-site testimonials** cleared for ad use — especially **seller "over asking" wins** and relocation/buyer stories.
 
 ## Changelog
 *Newest first. One line per revision: what changed and why.*
+- v2 (2026-09-19) — Client Round-1 answers folded in: **segment priority set (sellers first, then buyers; investors deprioritized)**; **goal = appointments via a lead-gen primary conversion action**; and the **Control Tower speed-to-lead / follow-up engine (built with partner Digital Optimus)** added across Product Overview, Target Audience, Differentiation (#2), Goals, Proof, glossary, and value themes. Noted Control Tower/Digital Optimus are internal terms, not consumer-facing copy.
 - v1 (2026-09-19) — Initial context, auto-drafted from **public sources only** (RISMedia 2026 feature, search snippets, older EXIT profile, BBB/Yelp/LinkedIn, social). Product, audience, DTC differentiation, and proof grounded in evidence; competitors, objections, and anti-persona drafted and flagged pending client confirmation. Live site returned 403 to fetch — homepage/about/buyer copy and all specific figures flagged for verification in "Open gaps for v2."
