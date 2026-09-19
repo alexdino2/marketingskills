@@ -11,6 +11,19 @@ This repository contains **Agent Skills** for AI agents following the [Agent Ski
 - **Creator**: Corey Haines
 - **License**: MIT
 
+## Multi-client product marketing (this fork)
+
+This fork is used as a **multi-client agency workspace** (Digital Optimus). Client product marketing context lives under `outputs/`, not only at `.agents/product-marketing.md`.
+
+**Required behavior for every marketing task:**
+
+1. Read [`CLIENTS.md`](CLIENTS.md) for the client → file registry.
+2. If the user names a client (or any alias listed there), **immediately read that client's `product-marketing.md`** and use it as the product / audience / positioning context for the task.
+3. Prefer the matched client file over `.agents/product-marketing.md` when a client is named.
+4. If no client is named, fall back to normal skill behavior (`.agents/product-marketing.md` if present; otherwise ask which client).
+
+Do not invent client context. If the named company is not in `CLIENTS.md`, say so and offer to create a product-marketing file + registry row.
+
 ## Repository Structure
 
 ```
