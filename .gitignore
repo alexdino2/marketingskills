@@ -29,3 +29,6 @@ skills-lock.json
 .idea/
 .vscode/
 .partners-pending/
+
+# Prospect contact lists (personal contact data — keep local)
+outputs/**/prospects*.csv
