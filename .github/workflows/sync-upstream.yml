@@ -11,6 +11,10 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      # Required when upstream commits touch .github/workflows/* —
+      # otherwise `gh repo sync` fails with: "Upstream commits contain
+      # workflow changes, which require the `workflow` scope or permission"
+      workflows: write
     steps:
       - name: Sync fork from upstream
         env:
