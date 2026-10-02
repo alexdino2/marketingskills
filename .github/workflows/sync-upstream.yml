@@ -14,7 +14,10 @@ jobs:
     steps:
       - name: Sync fork from upstream
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # GITHUB_TOKEN can never write to .github/workflows/, so upstream commits
+          # that touch workflows need a PAT with Contents + Workflows write access.
+          GH_TOKEN: ${{ secrets.SYNC_TOKEN || secrets.GITHUB_TOKEN }}
+          HAS_SYNC_TOKEN: ${{ secrets.SYNC_TOKEN != '' }}
           REPOSITORY: ${{ github.repository }}
         run: |
           set -euo pipefail
@@ -25,4 +28,11 @@ jobs:
             exit 1
           fi
           echo "Syncing ${REPOSITORY}:${BRANCH} from upstream ${PARENT}"
-          gh repo sync "$REPOSITORY" --branch "$BRANCH"
+          if ! OUTPUT="$(gh repo sync "$REPOSITORY" --branch "$BRANCH" 2>&1)"; then
+            echo "$OUTPUT"
+            if [ "$HAS_SYNC_TOKEN" != "true" ] && echo "$OUTPUT" | grep -qi "workflow"; then
+              echo "::error::Upstream changed .github/workflows/, which GITHUB_TOKEN cannot write. Add a SYNC_TOKEN repo secret (fine-grained PAT with Contents: write and Workflows: write) or sync manually."
+            fi
+            exit 1
+          fi
+          echo "$OUTPUT"
