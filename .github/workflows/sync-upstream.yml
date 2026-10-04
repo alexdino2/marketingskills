@@ -14,8 +14,9 @@ jobs:
     steps:
       - name: Sync fork from upstream
         env:
-          # GITHUB_TOKEN can never write to .github/workflows/, so upstream commits
-          # that touch workflows need a PAT with Contents + Workflows write access.
+          # GITHUB_TOKEN cannot merge upstream commits that touch
+          # .github/workflows/* (needs OAuth `workflow` scope). Prefer a
+          # fine-grained PAT secret with Contents + Workflows write.
           GH_TOKEN: ${{ secrets.SYNC_TOKEN || secrets.GITHUB_TOKEN }}
           HAS_SYNC_TOKEN: ${{ secrets.SYNC_TOKEN != '' }}
           REPOSITORY: ${{ github.repository }}
