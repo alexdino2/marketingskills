@@ -1,26 +1,30 @@
 #!/usr/bin/env node
 
+const rawArgs = process.argv.slice(2)
 const TOKEN = process.env.GOOGLE_ADS_TOKEN
 const DEV_TOKEN = process.env.GOOGLE_ADS_DEVELOPER_TOKEN
 const CUSTOMER_ID = process.env.GOOGLE_ADS_CUSTOMER_ID
+const LOGIN_CUSTOMER_ID = process.env.GOOGLE_ADS_LOGIN_CUSTOMER_ID?.replace(/-/g, '')
 const BASE_URL = 'https://googleads.googleapis.com/v24'
 
-if (!TOKEN || !DEV_TOKEN || !CUSTOMER_ID) {
-  console.error(JSON.stringify({ error: 'GOOGLE_ADS_TOKEN, GOOGLE_ADS_DEVELOPER_TOKEN, and GOOGLE_ADS_CUSTOMER_ID environment variables required' }))
+if ((!TOKEN || !CUSTOMER_ID) && rawArgs.length > 0) {
+  console.error(JSON.stringify({ error: 'GOOGLE_ADS_TOKEN and GOOGLE_ADS_CUSTOMER_ID environment variables required' }))
   process.exit(1)
 }
 
 async function api(method, path, body) {
+  const headers = {
+    'Authorization': `Bearer ${TOKEN}`,
+    'Content-Type': 'application/json',
+  }
+  if (DEV_TOKEN) headers['developer-token'] = DEV_TOKEN
+  if (LOGIN_CUSTOMER_ID) headers['login-customer-id'] = LOGIN_CUSTOMER_ID
   if (args['dry-run']) {
-    return { _dry_run: true, method, url: `${BASE_URL}${path}`, headers: { Authorization: '***', 'developer-token': '***', 'Content-Type': 'application/json' }, body: body || undefined }
+    return { _dry_run: true, method, url: `${BASE_URL}${path}`, headers: { ...headers, Authorization: '***', ...(DEV_TOKEN ? { 'developer-token': '***' } : {}) }, body: body || undefined }
   }
   const res = await fetch(`${BASE_URL}${path}`, {
     method,
-    headers: {
-      'Authorization': `Bearer ${TOKEN}`,
-      'developer-token': DEV_TOKEN,
-      'Content-Type': 'application/json',
-    },
+    headers,
     body: body ? JSON.stringify(body) : undefined,
   })
   const text = await res.text()
@@ -57,7 +61,7 @@ function parseArgs(args) {
   return result
 }
 
-const args = parseArgs(process.argv.slice(2))
+const args = parseArgs(rawArgs)
 const [cmd, sub, ...rest] = args._
 
 // Computed ranges use this machine's calendar date; Google evaluates them in the account's time zone.
@@ -78,6 +82,12 @@ async function main() {
   let result
 
   switch (cmd) {
+    case 'query':
+      if (sub !== 'run') throw new Error('Unknown query subcommand. Use: run')
+      if (typeof args.query !== 'string' || !args.query.trim()) throw new Error('--query requires a non-empty GAQL query')
+      result = await gaql(args.query)
+      break
+
     case 'account':
       switch (sub) {
         case 'info':
@@ -178,6 +188,7 @@ async function main() {
       result = {
         error: 'Unknown command',
         usage: {
+          query: 'query run --query <GAQL> [--dry-run]',
           account: 'account [info]',
           campaigns: 'campaigns [list|performance|pause|enable] [--days 30] [--id <id>]',
           adgroups: 'adgroups [performance] [--days 30] [--limit <n>]',
